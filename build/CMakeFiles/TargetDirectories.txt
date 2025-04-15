@@ -1,0 +1,13 @@
+/Users/gabrielcarlsson/ws/pico-firmware/build/CMakeFiles/edit_cache.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/CMakeFiles/rebuild_cache.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/CMakeFiles/list_install_components.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/CMakeFiles/install.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/CMakeFiles/install/local.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/CMakeFiles/install/strip.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/src/CMakeFiles/hello.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/src/CMakeFiles/edit_cache.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/src/CMakeFiles/rebuild_cache.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/src/CMakeFiles/list_install_components.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/src/CMakeFiles/install.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/src/CMakeFiles/install/local.dir
+/Users/gabrielcarlsson/ws/pico-firmware/build/src/CMakeFiles/install/strip.dir
